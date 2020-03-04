@@ -1,0 +1,5 @@
+Criar duas novas funções:
+
+listarPets que imprime para o usuário (na tela do navegador) todos os pets listados.
+
+buscarPet que busca um pet na lista e retorna feeedback.
